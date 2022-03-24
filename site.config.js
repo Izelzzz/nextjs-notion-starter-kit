@@ -10,6 +10,7 @@ module.exports = {
   name: 'Design Chest',
   domain: 'https://www.notion.so/Personal-Home-4483c6d337a342a9a59247f37279deb6',
   author: 'Izel Deng',
+  icon：'Cache_-76903c929a317f20..jpg'
 
   // open graph metadata (optional)
   description: 'Example site description',
